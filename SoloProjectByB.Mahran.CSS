@@ -1,0 +1,54 @@
+body {
+    background-image: url("375884-4k-wallpaper.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+h2{
+    color: white;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    position: relative;
+    top: 10;
+    font-family: Cursive;
+  }
+ h1 {
+  color: white;
+  font-size: 300%;
+  position: relative;
+  top: 0;
+  font-family: Cursive;
+}
+#img1 {
+    width:30%;
+    height: 250px;
+    border-radius: 8px;
+    float: right;
+  } 
+#img2{
+    width: 30%;
+    border-radius: 100%;
+    float: left;
+}
+p {
+    color: white;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+#imgtitre{
+  width:30%;
+  height: 200px;
+}
+#btn1{
+  position: relative   ;
+  right: -610;
+  bottom:-270;
+}
+#btn2{
+  position: relative;
+  right: -590;
+  bottom: -270;
+}
+h3{
+  float: left;
+  position: relative;
+  left :-50;
+  bottom: -270
+}
