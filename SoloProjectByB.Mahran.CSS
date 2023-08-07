@@ -1,17 +1,17 @@
 body {
-    background-image: url("375884-4k-wallpaper.jpg");
+    background-image: url("ninou.webp");
     background-repeat: no-repeat;
     background-size: cover;
   }
 h2{
-    color: white;
+    color: black;
     font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
     position: relative;
     top: 10;
     font-family: Cursive;
   }
  h1 {
-  color: white;
+  color: black;
   font-size: 300%;
   position: relative;
   top: 0;
@@ -24,12 +24,14 @@ h2{
     float: right;
   } 
 #img2{
-    width: 30%;
-    border-radius: 100%;
+    width:30%;
+    height: 250px;
+    border-radius: 8px;
     float: left;
+    padding-left: 30px;
 }
 p {
-    color: white;
+    color: black;
     font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
 }
 #imgtitre{
@@ -40,15 +42,30 @@ p {
   position: relative   ;
   right: -610;
   bottom:-270;
+  border-radius: 8px;
 }
 #btn2{
   position: relative;
   right: -590;
   bottom: -270;
+  border-radius: 8px;
 }
 h3{
   float: left;
   position: relative;
   left :-50;
   bottom: -270
+}
+#btn0{
+  background-color: gray; 
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 8px;
+  position: relative;
+  right: 50;
 }
