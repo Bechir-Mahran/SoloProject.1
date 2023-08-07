@@ -1,0 +1,16 @@
+body {
+    background-image: url("ninou.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+#m1{
+    width: 30%;
+    height: 300px;
+    padding-left: 40px;
+    
+}
+#m2{
+  width: 30%;
+    height: 300px;
+    padding-left: 30px;
+}
